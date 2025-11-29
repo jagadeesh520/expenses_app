@@ -539,9 +539,12 @@ export default function SPICONRegistration() {
           <h5 className="fw-bold mb-3">Account Details</h5>
           
           <div className="p-3" style={{ background: "#f8f9fa", borderRadius: "5px" }}>
-            <p className="mb-2"><strong>Account Holder Name:</strong> Mr. Jagatap Jagan</p>
-            <p className="mb-2"><strong>IFSC Code:</strong> SBIN0012674</p>
-            <p className="mb-0"><strong>Account No:</strong> 44676705721</p>
+            <p className="mb-2"><strong>Account Holder Name :</strong> Mr. Jagatap Jagan</p>
+            <p className="mb-2"><strong>Account No :</strong> 44676705721</p>
+            <p className="mb-2"><strong>IFSC Code :</strong> SBIN0012674</p>
+            <p className="mb-2"><strong>UPI ID :</strong> - </p>
+            <p className="mb-2"><strong>Phone pay/Google Pay Number :</strong> - </p>
+            
           </div>
 
           <hr className="mt-4" />
